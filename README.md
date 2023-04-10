@@ -9,12 +9,12 @@ I'm Austin
 - **Databases**: MongoDB, MySQL, PostgreSQL, Redis
 - **Tools**: Git, Postman, VS Code, Burp Suite
 
-###  Studying
+###  Studying for
 
-- AWS Solutions Architect
-- Burp Suite Practitioner
+- AWS Solutions Architect Associate
+- Burp Suite Certified Practitioner
 
-###  Certifications
+###  Current Certifications
 
 - CompTIA Network+
 - CompTIA Security+
