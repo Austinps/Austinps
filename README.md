@@ -22,4 +22,4 @@ I'm Austin, a passionate web developer, curious about application security.
 
 ### Portfolio Website
 
-Check out my portfolio website to see some of my projects and learn more about me: [your-website-url](https://www.austinstack.dev).
+Check out my portfolio here: [austinstack.dev](https://www.austinstack.dev).
