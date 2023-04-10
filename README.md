@@ -1,16 +1,43 @@
-### Hi there 👋
+---
 
-<!--
-**Austinps/Austinps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, I'm [ Austin ] 
 
-Here are some ideas to get you started:
+I'm a JavaScript developer with a strong interest in backend technologies and web application security. I enjoy building scalable and secure web applications using React, Node.js, Express, MongoDB. I'm also interested in expanworking on expanding my knowledge around DevOps, cloud computing, and containerization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  I'm currently working on...
+
+- Developing a RESTful API for a web application using Node.js and Express.
+- Building a scalable and secure backend architecture using MongoDB, Redis, and AWS.
+- Learning more about web application security and implementing best practices to prevent common security threats.
+
+###  I'm currently learning...
+
+- for the AWS Solutions Architect Associate certification exam.
+- also for the Burp Suite Certified Practitioner certification exam.
+- Best practices for securing web applications and preventing common security threats.
+- Containerization using Docker and orchestration using Kubernetes.
+
+### 👯 I'm looking to collaborate on...
+
+- Open-source projects related to backend technologies, web application security, or DevOps.
+- Building scalable and secure web applications using modern web technologies.
+
+### 💬 Ask me about...
+
+- Building RESTful APIs using Node.js, Express, and MongoDB.
+- Implementing best practices for web application security.
+- Setting up a scalable and reliable backend architecture using AWS or other cloud services.
+
+### 📫 How to reach me...
+
+- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
+- [Twitter](https://twitter.com/yourtwitterhandle)
+
+### ⚡ Fun fact...
+
+I love trying out new coffee shops and finding the perfect spot to work on my projects.
+
+---
+
+Feel free to use this as a starting point for your own GitHub profile README file and customize it to your liking. Good luck!
