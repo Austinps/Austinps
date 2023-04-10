@@ -30,14 +30,5 @@ I'm a JavaScript developer with a strong interest in backend technologies and we
 
 ### 📫 How to reach me...
 
-- [Email](mailto:youremail@example.com)
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
-- [Twitter](https://twitter.com/yourtwitterhandle)
+- [Email](mailto:austinps@pm.me)
 
-### ⚡ Fun fact...
-
-I love trying out new coffee shops and finding the perfect spot to work on my projects.
-
----
-
-Feel free to use this as a starting point for your own GitHub profile README file and customize it to your liking. Good luck!
