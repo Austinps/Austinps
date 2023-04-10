@@ -1,6 +1,6 @@
 
 
-I'm Austin
+I'm Austin, a passionate web developer, curious about application security.
 
 ###  Skills
 
@@ -20,4 +20,6 @@ I'm Austin
 - CompTIA Security+
 - CompTIA Linux+
 
+### Portfolio Website
 
+Check out my portfolio website to see some of my projects and learn more about me: [your-website-url](https://www.austinstack.dev).
