@@ -1,6 +1,6 @@
 ## I'm Austin.
 
-As a developer, I'm dedicated to writing code that's both clean and secure.
+I'm dedicated to writing code that's both clean and secure.
 Of course, it's a never-ending journey of learning and improving.
 
 
