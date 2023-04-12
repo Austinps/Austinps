@@ -1,20 +1,17 @@
+## I'm Austin.
+
+As a developer, I'm dedicated to writing code that's both clean and secure.
+Of course, it's a never-ending journey of learning and improving.
 
 
-## I'm Austin, a web developer curious about application security.
-
-###  Skills
+### Skills
 
 - **Languages**: JavaScript, TypeScript, Python, Bash
 - **Frameworks/Libraries**: Node.js, Express.js, React.js, Next.js
 - **Databases**: MongoDB, MySQL, PostgreSQL, Redis
 - **Tools**: Git, Postman, VS Code, Burp Suite
 
-###  Studying for
-
-- AWS Solutions Architect Associate
-- Burp Suite Certified Practitioner
-
-###  Current Certifications
+### Certifications
 
 - CompTIA Network+
 - CompTIA Security+
@@ -23,3 +20,5 @@
 ### Portfolio Website
 
 Check out my portfolio here: [austinstack.dev](https://www.austinstack.dev).
+
+When I'm not coding, I like watching French crime movies
