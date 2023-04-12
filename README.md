@@ -1,6 +1,6 @@
 
 
-## I'm Austin, a passionate web developer who is curious about application security.
+## I'm Austin, web developer curious about application security.
 
 ###  Skills
 
