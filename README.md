@@ -20,5 +20,3 @@ Of course, it's a never-ending journey of learning and improving.
 ### Portfolio Website
 
 Check out my portfolio here: [austinstack.dev](https://www.austinstack.dev).
-
-When I'm not coding, I like watching French crime movies
