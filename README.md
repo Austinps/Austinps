@@ -1,7 +1,7 @@
 ## I'm Austin.
 
 I'm dedicated to writing code that's both clean and secure.
-Of course, it's a never-ending journey of learning and improving.
+Of course, that's a never-ending journey of learning and improving.
 
 
 ### Skills
