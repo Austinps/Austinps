@@ -9,7 +9,7 @@ Of course, that's a never-ending journey of learning and improving.
 - **Languages**: JavaScript, TypeScript, Python, Bash
 - **Frameworks/Libraries**: Node.js, Express.js, React.js, Next.js
 - **Databases**: MongoDB, MySQL, PostgreSQL, Redis
-- **Tools**: Git, Postman, VS Code, Burp Suite
+- **Tools**: Git, Postman, Burp Suite
 
 ### Certifications
 
