@@ -6,8 +6,8 @@ Of course, that's a never-ending journey of learning and improving.
 
 ### Skills
 
-- **Languages**: JavaScript, TypeScript, Python, Bash
-- **Frameworks/Libraries**: Node.js, Express.js, React.js, Next.js
+- **Languages**: JavaScript, Node, TypeScript, Python, Bash
+- **Frameworks/Libraries**: Express.js, React.js, Next.js
 - **Databases**: MongoDB, MySQL, PostgreSQL, Redis
 - **Tools**: Git, Postman, Burp Suite
 
