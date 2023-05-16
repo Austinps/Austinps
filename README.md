@@ -16,6 +16,7 @@ Of course, that's a never-ending journey of learning and improving.
 - CompTIA Network+
 - CompTIA Security+
 - CompTIA Linux+
+- AWS Cloud Practitioner
 
 ### Portfolio Website
 
