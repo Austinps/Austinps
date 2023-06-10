@@ -20,4 +20,4 @@ Of course, that's a never-ending journey.
 
 ### Portfolio Website
 
-Check out my portfolio here: [austinstack.dev](https://www.austinstack.dev).
+Check out my portfolio here: [austinstack.dev](https://austinstack.dev/).
